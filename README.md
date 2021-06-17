@@ -1,14 +1,8 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: Asynchronous APEX Future Methods
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+-Createed an Apex class with a future method that accepts a List of Account IDs and updates a custom field on the Account object with the number of contacts associated to the Account. 
 
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+-Wrote unit tests that achieve 100% code coverage for the class. 
 
 ## Read All About It
 
