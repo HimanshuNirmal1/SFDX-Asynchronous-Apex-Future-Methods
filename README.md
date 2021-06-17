@@ -4,6 +4,8 @@
 
 -Wrote unit tests in the AccountProcessorTest class that achieve 100% code coverage for the class. 
 
+-Path to the APEX classes: /force-app/main/default/classes/
+
 ## Read All About It
 
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
