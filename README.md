@@ -1,10 +1,10 @@
 # Salesforce DX Project: Asynchronous APEX Future Methods
 
--Created an Apex class AccountProcessor with a future method that accepts a List of Account IDs and updates a custom field on the Account object with the number of contacts associated to the Account. 
+- Created an Apex class AccountProcessor with a future method that accepts a List of Account IDs and updates a custom field on the Account object with the number of contacts associated to the Account. 
 
--Wrote unit tests in the AccountProcessorTest class that achieve 100% code coverage for the class. 
+- Wrote unit tests in the AccountProcessorTest class that achieve 100% code coverage for the class. 
 
--Path to the APEX classes: /force-app/main/default/classes/
+- Path to the APEX classes: /force-app/main/default/classes/
 
 ## Read All About It
 
